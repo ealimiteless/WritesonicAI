@@ -1,8 +1,8 @@
 {
-  "app_open": "ca-app-pub-xxxxxxx/xxxxxxx",
-  "banner": "ca-app-pub-xxxxxxx/xxxxxxx",
-  "interstitial": "ca-app-pub-xxxxxxx/xxxxxxx",
-  "native": "ca-app-pub-xxxxxxx/xxxxxxx",
-  "rewarded": "ca-app-pub-xxxxxxx/xxxxxxx",
+  "app_open": "ca-app-pub-3940256099942544/9257395923",
+  "banner": "ca-app-pub-3940256099942544/9214589225",
+  "interstitial": "ca-app-pub-3940256099942544/1033173712",
+  "native": "ca-app-pub-3940256099942544/2247696110",
+  "rewarded": "ca-app-pub-3940256099942544/5224354917",
   "ads_enabled": true
 }
