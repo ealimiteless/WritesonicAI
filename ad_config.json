@@ -1,8 +1,8 @@
 {
-  "app_open": "ca-app-pub-3940256099942544/9257395923",
-  "banner": "ca-app-pub-3940256099942544/9214589225",
-  "interstitial": "ca-app-pub-3940256099942544/1033173712",
-  "native": "ca-app-pub-3940256099942544/2247696110",
-  "rewarded": "ca-app-pub-3940256099942544/5224354917",
-  "ads_enabled": true
+  "app_open": "ca-app-pub-6335103216414556/5577793173",
+  "banner": "ca-app-pub-6335103216414556/9907907113",
+  "interstitial": "ca-app-pub-6335103216414556/4188676574",
+  "native": "ca-app-pub-6335103216414556/9249431560",
+  "rewarded": "ca-app-pub-6335103216414556/1562513232",
+  "ads_enabled": false
 }
