@@ -1,8 +1,8 @@
-data class AdConfig(
-    val appOpenId: String = "ca-app-pub-3940256099942544/9257395923", // Test ID
-    val bannerId: String = "ca-app-pub-3940256099942544/9214589225", // Test ID
-    val interstitialId: String = "ca-app-pub-3940256099942544/1033173712", // Test ID
-    val nativeId: String = "ca-app-pub-3940256099942544/2247696110", // Test ID
-    val rewardedId: String = "ca-app-pub-3940256099942544/5224354917", // Test ID
-    val adsEnabled: Boolean = true
-)
+{
+  "app_open": "ca-app-pub-xxxxxxx/xxxxxxx",
+  "banner": "ca-app-pub-xxxxxxx/xxxxxxx",
+  "interstitial": "ca-app-pub-xxxxxxx/xxxxxxx",
+  "native": "ca-app-pub-xxxxxxx/xxxxxxx",
+  "rewarded": "ca-app-pub-xxxxxxx/xxxxxxx",
+  "ads_enabled": true
+}
